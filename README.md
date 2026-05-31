@@ -6,6 +6,10 @@ Creating a Python Elastic Net &amp; RF models to predict movies IMDB's rating.
 ------------------------------------שמירת הקובץ dataset.csv בשם הזה בתיקייה בה נריץ את הקוד.
 ------------------------------------שמירת הקובץ title.crew.tsv.gz בשם הזה בתקייה בה נריץ את הקוד.
 הקוד שנכתב מייבא ספריות באופן עצמאי ועובד לפי גרסאות אלו:
+
+
+
+
 asttokens==3.0.1
 beautifulsoup4==4.14.3
 Boruta==0.4.3
